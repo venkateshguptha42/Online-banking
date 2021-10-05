@@ -2,13 +2,13 @@
 In this project we are working on a loan dataset, customer credit card dataset and a bank transaction dataset by using Apache Spark, which is a data processing framework that can quickly perform processing tasks on very large data sets, and can also distribute data processing tasks across multiple computers, either on its own or in tandem with other distributed computing tools. Using these datasets and Spark SQL we have created various use cases pertaining to real life scenarios in banking.
 
 # Technologies Used
-Spark
-PySpark
-SparkSQL
-HDFS
-Hive
-Python
-DataBricks
+1.Spark
+2.PySpark
+3.SparkSQL
+4.HDFS
+5.Hive
+6.Python
+7.DataBricks
 
 # USE CASES FOR LOAN DATASET
 >>>The number of loans on each category.
@@ -44,3 +44,10 @@ DataBricks
 >>>Number of transaction on each date.
 >>>List of customers with withdrawal amount more than 1 lakh.
 
+# CONTRIBUTERS:
+1.Akhil
+2.Rajib
+3.Anand
+4.Abhilash
+5.Venkatesh
+6.Sidhanth
