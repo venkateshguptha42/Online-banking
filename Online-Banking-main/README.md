@@ -1,7 +1,7 @@
 # Online-Banking
 In this project we are working on a loan dataset, customer credit card dataset and a bank transaction dataset by using Apache Spark, which is a data processing framework that can quickly perform processing tasks on very large data sets, and can also distribute data processing tasks across multiple computers, either on its own or in tandem with other distributed computing tools. Using these datasets and Spark SQL we have created various use cases pertaining to real life scenarios in banking.
 
-# Tools
+# Technologies Used
 Spark
 PySpark
 SparkSQL
@@ -11,7 +11,6 @@ Python
 DataBricks
 
 # USE CASES FOR LOAN DATASET
-
 >>>The number of loans on each category.
 >>>The number of loans taken on each occupation.
 >>>Know the number of members who taken more than 1lack loan.
