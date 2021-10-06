@@ -44,6 +44,19 @@ In this project we are working on a loan dataset, customer credit card dataset a
 >>>Number of transaction on each date.
 >>>List of customers with withdrawal amount more than 1 lakh.
 
+# Getting Started
+1.create the data frame using the SparkSession and load the data intoit.
+
+df = spark.read.csv("C:/Users/sidse/Downloads/big data course/ASSIGNMENTS/projects/Banking P2/loan.csv", inferSchema = True, header = True)
+df.printSchema()
+
+2.perform some use cases
+    use cases includes
+>>>number of people who have taken more than 1 lack loan
+>>>number of people with 2 or more returned cheques and are single
+>>>number of people with income greater than 60000 rupees
+
+
 # CONTRIBUTERS:
 1.Akhil
 2.Rajib
