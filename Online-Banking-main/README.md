@@ -51,10 +51,9 @@ df = spark.read.csv("C:/Users/sidse/Downloads/big data course/ASSIGNMENTS/projec
 df.printSchema()
 
 2.perform some use cases
-    use cases includes
->>>number of people who have taken more than 1 lack loan
->>>number of people with 2 or more returned cheques and are single
->>>number of people with income greater than 60000 rupees
+>>>number of people who have taken more than 1 lack loan.
+>>>number of people with 2 or more returned cheques and are single.
+>>>number of people with income greater than 60000 rupees.
 
 
 # CONTRIBUTERS:
