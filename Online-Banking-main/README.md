@@ -55,6 +55,18 @@ df.printSchema()
 >>>number of people with 2 or more returned cheques and are single.
 >>>number of people with income greater than 60000 rupees.
 
+# Roles and Responsibilities:
+1.collected some use cases for loan dataset, transaction dataset.
+2.Integrated spark with jupyter using the module pyspark.
+3.Worked on the aggregate functions and verity of use cases.For the purpose the partitioning the data we have also worked on ubuntu.Collected the data set from Kaggle and processed using the pyspark.
+4.Coordinated ina tem of five members and working with github.
+5.Implemented various use cases on loan data set and transaction data to fetch required information.
+6.For the purpose of finding the more use cases i have worked on databricks.
+7.Worked on the management of time and quality to achieve the project goal in time with improved quality.
+8.Deployed the project on Github with repository name as an Online-Banking
+9.Deployed the setup of spark environment to run PySpark.
+10.Utilized the VI editor to develop code on a Virtual Machine.
+
 
 # CONTRIBUTERS:
 1.Akhil
